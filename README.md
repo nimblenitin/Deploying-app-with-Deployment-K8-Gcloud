@@ -1,5 +1,5 @@
 # Deploying-app-with-Deployment-K8-Gcloud
-Deploying a better version of Voting app previously deployed with Kubernetes by including Deployment to scale pods and a Load balancer to route the request.
+Deploying a better version of Voting app as a microservice previously deployed with Kubernetes by including Deployment to scale pods and a Load balancer to route the request.
 
 Steps followed:
 
