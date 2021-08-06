@@ -33,7 +33,7 @@ $ kubectl apply -f worker-app-deployment.yml
 4. Checkout the deployment to see the number of Pods in Deployment
 $ kubectl get deployments
 
-5. To check out the Load balancer, open the IP address in a browser and click on the buttons to see the request being routed to differet Pods every time by Load balancer.
+5. To check out the Load balancer, open the IP address in a browser and click on the buttons to see the request being routed to different Pods every time by Load balancer.
 
 
 ```
